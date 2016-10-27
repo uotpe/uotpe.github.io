@@ -1,4 +1,9 @@
-following properties in designer.tra
+---
+layout: post
+title: Tibco Tracing!
+---
+
+properties in designer.tra
 
 ALL TRACING:
 Trace.Task.*=true
